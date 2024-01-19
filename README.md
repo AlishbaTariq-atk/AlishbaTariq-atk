@@ -7,7 +7,7 @@ I'm Alishba Tariq, a coding enthusiast on a mission to turn coffee into code. �
 
 - 💻 Enthusiastic coder fluent in the languages of logic : C | C++ | Python
 - 💻 Wordpress Developer
-- 🌐 Currently on a web development odyssey, mastering the art of HTML, CSS, PHP and JS to bring my code to life on the digital canvas."
+- 🌐 Currently on a web development odyssey, mastering the art of HTML, CSS, PHP and JS to bring my code to life on the digital canvas.
 - 🚀 Passionate about building things that matter
 - 🌐 Explorer of the digital realm
 
@@ -18,15 +18,18 @@ I'm Alishba Tariq, a coding enthusiast on a mission to turn coffee into code. �
 
 ## Projects Showcase 🛠️
 
- 1. Airport Management System (C++)
-    ( Implemented a comprehensive system that efficiently manages multiple aspects of airport operations, such as passenger management, flight 
-     scheduling, and baggage handling. By leveraging OOP concepts, I showcased my ability to create software solutions that are modular, scalable, and easily maintainable.)
+ 1. *Airport Management System (C++)*
+      <br></br>
+      Implemented a comprehensive system that efficiently manages multiple aspects of airport operations, such as passenger management, flight 
+      scheduling, and baggage handling. By leveraging OOP concepts, I showcased my ability to create software solutions that are modular, scalable, and easily maintainable.
 
-2. Tic-Tac-Toe (Python)
-    ( A console-based Tic Tac Toe game implemented in Python. Two players can take turns to play the game.)
+2. *Tic-Tac-Toe (Python)*
+     <br></br>
+     A console-based Tic Tac Toe game implemented in Python. Two players can take turns to play the game.
 
-3. Tic-Tac-Toe (C++)
-   ( Recreated the intresting game in C++)
+3. *Tic-Tac-Toe (C++)*
+     <br></br>
+     Recreated the intresting game in C++
 
 And other small projects throughout my course studies...  
 
