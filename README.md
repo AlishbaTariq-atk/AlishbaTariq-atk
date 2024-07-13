@@ -5,16 +5,14 @@ I'm Alishba Tariq, a coding enthusiast on a mission to turn coffee into code. �
 
 ## About Me
 
-- 💻 Enthusiastic coder fluent in the languages of logic : C | C++ | Python
-- 💻 Wordpress Developer
-- 🌐 Currently on a web development odyssey, mastering the art of HTML, CSS, PHP and JS to bring my code to life on the digital canvas.
-- 🚀 Passionate about building things that matter
-- 🌐 Explorer of the digital realm
+- 💻 Data Analyst
+- 🌐 Currently on a Data Science odyssey, mastering the art of Data Visulaization using Power BI, Matplotlib and Seaborn (Python Libraries).
+
 
 ## Tech Toolbox 🧰
 
-- **Languages:** Python | C | C++ | HTML | CSS | JS | PHP
-- **Tools:** VS Code | Git | Wordpress | Anaconda | Figma
+- **Languages:**   <br> C | C++ | Python | Java | HTML | CSS | PHP | Logo | Goolge Carbon | Net Logo | SQL | DAX
+- **Tools:**  <br>  Git | Github | Wordpress | Anaconda | Figma | Jupyter Notebook  | MYSQL Workbench |  SQL Server Management Studio | Linux Ubuntu | VS Code | NetBeans | IntelliJ | Power BI
 
 ## Projects Showcase 🛠️
 
