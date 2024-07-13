@@ -12,7 +12,7 @@ I'm Alishba Tariq, a coding enthusiast on a mission to turn coffee into code. �
 ## Tech Toolbox 🧰
 
 - **Languages:**   <br> C | C++ | Python | Java | HTML | CSS | PHP | Logo | Goolge Carbon | Net Logo | SQL | DAX
-- **Tools:**  <br>  Git | Github | Wordpress | Anaconda | Figma | Jupyter Notebook  | MYSQL Workbench |  SQL Server Management Studio | Linux Ubuntu | VS Code | NetBeans | IntelliJ | Power BI
+- **Tools & Techs:**  <br>  Git | Github | Wordpress | Anaconda | Figma | Jupyter Notebook  | MYSQL Workbench |  SQL Server Management Studio | Linux Ubuntu | VS Code | NetBeans | IntelliJ | Power BI
 
 ## Projects Showcase 🛠️
 
