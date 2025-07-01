@@ -1,43 +1,66 @@
-# Hello, Github Fam! 👋
-![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/AlishbaTariq-atk/AlishbaTariq-atk/assets/145316171/82c91bf9-831f-4d93-b573-cbaf7b0e35ef)
+# Hello, GitHub Fam!
 
-I'm Alishba Tariq, a coding enthusiast on a mission to turn coffee into code. ☕🚀
+I'm **Alishba Tariq**, a final-year Software Engineering student at FAST-NUCES, specializing in **Python**, **Power BI**, and **Machine Learning**, with a deep interest in **Computer Vision** and **AI-powered analytics**. I love building smart, real-world solutions — from data dashboards to object detection systems — that make a difference.
+
+---
 
 ## About Me
 
-- 💻 Data Analyst
-- 🌐 Currently on a Data Science odyssey, mastering the art of Data Visulaization using Power BI, Matplotlib and Seaborn (Python Libraries).
+- 💻 Software Engineer in the making, focused on **ML/AI**, **Computer Vision**, and **Data Science**
+- 📊 Skilled in **Data Analytics** using Power BI, DAX, Excel, and Python visualization libraries (Matplotlib, Seaborn)
+- 🧠 Author of a beginner-friendly guide on YOLOv8 for real-time object detection
+- 🧑‍🏫 Teaching Assistant and Research Contributor at FAST-NUCES
 
+---
 
-## Tech Toolbox 🧰
+## Tech Toolbox
 
-- **Languages:**   <br> C | C++ | Python | Java | HTML | CSS | PHP | Logo | Goolge Carbon | Net Logo | SQL | DAX
-- **Tools & Techs:**  <br>  Git | Github | Wordpress | Anaconda | Figma | Jupyter Notebook  | MYSQL Workbench |  SQL Server Management Studio | Linux Ubuntu | VS Code | NetBeans | IntelliJ | Power BI
+**Languages:**  
+Python | C++ | C | Java | JavaScript | PHP | HTML | CSS | SQL | DAX | Mojo | Google Carbon
 
-## Projects Showcase 🛠️
+**AI/ML Tools:**  
+YOLOv8 | PyTorch | TensorFlow | Scikit-learn | OpenCV | XGBoost | Pandas | NumPy | Matplotlib | Seaborn
 
- 1. *Airport Management System (C++)*
-      <br></br>
-      Implemented a comprehensive system that efficiently manages multiple aspects of airport operations, such as passenger management, flight 
-      scheduling, and baggage handling. By leveraging OOP concepts, I showcased my ability to create software solutions that are modular, scalable, and easily maintainable.
+**Data & Visualization:**  
+Power BI | Excel | Power Query | MySQL | PostgreSQL | SQL Server
 
-2. *Tic-Tac-Toe (Python)*
-     <br></br>
-     A console-based Tic Tac Toe game implemented in Python. Two players can take turns to play the game.
+**Frameworks & Dev:**  
+Flask | Django | Laravel | Streamlit | WordPress
 
-3. *Tic-Tac-Toe (C++)*
-     <br></br>
-     Recreated the intresting game in C++
+**Tools & Platforms:**  
+Git | GitHub | Jupyter Notebook | VS Code | NetBeans | IntelliJ | Docker | Groq API | Nvidia Triton | Linux (Ubuntu)
 
-And other small projects throughout my course studies...  
+---
 
+## Projects Showcase
+
+- 📘 **[YOLOv8 Guide](https://www.linkedin.com/posts/colab-nu_yolo-v8-object-detection-model-guide-ugcPost-7159627665006592000-OXx3/)** – A detailed guide for beginners on real-time object detection
+- 📅 **[AI Timetable Scheduler](https://github.com/AlishbaTariq-atk/-AI-Academic-Timetable-Scheduler)** – Generates conflict-free schedules using Genetic Algorithms & CSP
+- 📝 **[OMR + MCQ System](https://github.com/AlishbaTariq-atk/OMR-and-MCQ-Generation-System)** – Dual system for automated MCQ generation and OMR evaluation
+- 📊 **[Tourism Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMjU5NTI4OTEtMjM2NC00NjQ2LTg0ZjUtNGJiODI2NmU2ZDkxIiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9)** – KP license grant and tourism analysis dashboard
+- 🛒 **[Point of Sale App](https://github.com/AlishbaTariq-atk/POINT-OF-SALE)** – Java-based inventory and billing system
+- 🌐 **EduTech Platform** – AI-powered SaaS for smart education and virtual classrooms
+
+---
+
+## Achievements
+
+- 🥇 Gold & Silver Medalist – FAST-NUCES  
+- 🥈 ICPC Asia Regional Finalist – Top 60  
+- 🧪 Research Contributor – CoLab Lab (Computer Vision)
+
+---
+
+## Let’s Connect!
+
+- 📧 **Email:** alishbat2012@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/alishba-tariq-](https://www.linkedin.com/in/alishba-tariq-)  
+- 💻 **GitHub:** [github.com/AlishbaTariq-atk](https://github.com/AlishbaTariq-atk)  
+
+*Feel free to explore my repositories and join me on this exciting coding journey!*
+
+ 
 ![219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16](https://github.com/AlishbaTariq-atk/AlishbaTariq-atk/assets/145316171/cec4a665-28cb-472c-9d05-a5f93fb775c3)
 
 
-## Let's Connect! 🌍
 
-- 📧 Email: alishbat2012@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/alishba-tariq-1281b0271
-
-Feel free to explore my repositories and join me on this coding adventure! 🚁
-![256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24](https://github.com/AlishbaTariq-atk/AlishbaTariq-atk/assets/145316171/f24ed478-1b8f-415e-b5c4-cd588e1af30e)
