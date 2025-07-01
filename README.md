@@ -39,7 +39,7 @@ Git | GitHub | Jupyter Notebook | VS Code | NetBeans | IntelliJ | Docker | Groq 
 - 📝 **[OMR + MCQ System](https://github.com/AlishbaTariq-atk/OMR-and-MCQ-Generation-System)** – Dual system for automated MCQ generation and OMR evaluation
 - 📊 **[Tourism Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMjU5NTI4OTEtMjM2NC00NjQ2LTg0ZjUtNGJiODI2NmU2ZDkxIiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9)** – KP license grant and tourism analysis dashboard
 - 🛒 **[Point of Sale App](https://github.com/AlishbaTariq-atk/POINT-OF-SALE)** – Java-based inventory and billing system
-- 🌐 **EduTech Platform** – AI-powered SaaS for smart education and virtual classrooms
+- 🌐 **[EduTech Platform](https://github.com/AlishbaTariq-atk/Edutech_SAAS_Based_Website)** – AI-powered SaaS for smart education and virtual classrooms
 
 ---
 
