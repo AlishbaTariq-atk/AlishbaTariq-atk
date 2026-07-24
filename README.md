@@ -124,9 +124,12 @@ My interests lie in:
 
 # Achievements
 
-🥇 Gold Medalist — FAST-NUCES
+   Gold Medalist — FAST-NUCES
+
    Batch Topper (CGPA 3.82/4.0) 
+   
    4× Rector's List
+   
    ICPC Asia Regional Programming Contest — Top 60
 
 ---
@@ -147,23 +150,7 @@ My interests lie in:
 
 ---
 
-# 🤝 Let's Connect
 
-📧 **Email**
-
-alishbat2012@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/alishba-tariq-
-
-💻 **GitHub**
-
-https://github.com/AlishbaTariq-atk
-
----
-
-> *"Building AI systems that solve real-world problems through intelligent automation."*
 
 ## Let’s Connect!
 
@@ -171,7 +158,8 @@ https://github.com/AlishbaTariq-atk
 - 🔗 **LinkedIn:** [linkedin.com/in/alishba-tariq-](https://www.linkedin.com/in/alishba-tariq-)  
 - 💻 **GitHub:** [github.com/AlishbaTariq-atk](https://github.com/AlishbaTariq-atk)  
 
-*Feel free to explore my repositories and join me on this exciting coding journey!*
+> *"Building AI systems that solve real-world problems through intelligent automation."*
+
 
  
 ![219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16](https://github.com/AlishbaTariq-atk/AlishbaTariq-atk/assets/145316171/cec4a665-28cb-472c-9d05-a5f93fb775c3)
