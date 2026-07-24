@@ -1,55 +1,169 @@
-# Hello, GitHub Fam!
+# Hi there 👋 I'm Alishba Tariq
 
-I'm **Alishba Tariq**, a final-year Software Engineering student at FAST-NUCES, specializing in **Python**, **Power BI**, and **Machine Learning**, with a deep interest in **Computer Vision** and **AI-powered analytics**. I love building smart, real-world solutions — from data dashboards to object detection systems — that make a difference.
+### AI Engineer • Python Backend Developer • Generative AI • Software Engineer
+
+I'm a Gold Medalist Software Engineering graduate from **FAST-NUCES** passionate about building production-ready AI systems, intelligent automation, and scalable backend applications.
+
+My interests lie in:
+
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Workflow Automation
+- Python Backend Development (FastAPI)
+- Computer Vision
+- Data Analytics & Business Intelligence
 
 ---
 
-## About Me
+# Current Focus
 
-- 💻 Software Engineer in the making, focused on **ML/AI**, **Computer Vision**, and **Data Science**
-- 📊 Skilled in **Data Analytics** using Power BI, DAX, Excel, and Python visualization libraries (Matplotlib, Seaborn)
-- 🧠 Author of a beginner-friendly guide on YOLOv8 for real-time object detection
-- 🧑‍🏫 Teaching Assistant and Research Contributor at FAST-NUCES
+- Building Agentic AI applications
+- Production-ready FastAPI backends
+- RAG pipelines with LangChain
+- AI workflow automation
+- Scalable AI system architecture
 
 ---
 
-## Tech Toolbox
+# Experience
 
-**Languages:**  
-Python | C++ | C | Java | JavaScript | PHP | HTML | CSS | SQL | DAX | Mojo | Google Carbon
+### Software Engineer Intern
+**NuSystems Labs (Harvard Medical School Project)**
 
-**AI/ML Tools:**  
-YOLOv8 | PyTorch | TensorFlow | Scikit-learn | OpenCV | XGBoost | Pandas | NumPy | Matplotlib | Seaborn
+- Developed Python backend services using FastAPI
+- Built AI-powered conversational workflows
+- Designed RAG pipelines using LangChain and FAISS
+- Integrated LLM-powered therapeutic intelligence
+- Worked on Computer Vision based attention tracking
+- Developed REST APIs and backend architecture
 
-**Data & Visualization:**  
-Power BI | Excel | Power Query | MySQL | PostgreSQL | SQL Server
+### Data Analyst
 
-**Frameworks & Dev:**  
-Flask | Django | Laravel | Streamlit | WordPress
+- Built Power BI dashboards
+- Designed ETL workflows
+- Automated reporting using DAX and Power Query
+- Worked with SQL-based analytics
 
-**Tools & Platforms:**  
-Git | GitHub | Jupyter Notebook | VS Code | NetBeans | IntelliJ | Docker | Groq API | Nvidia Triton | Linux (Ubuntu)
+---
+
+# Tech Stack
+
+## Languages
+
+- Python
+- Java
+- C++
+- JavaScript
+- RUST
+
+## AI & Machine Learning
+
+- LLMs
+- LangChain
+- RAG
+- Hugging Face
+- PyTorch
+- TensorFlow
+- OpenCV
+- Scikit-learn
+- FAISS - ChromaDB
+- NLP
+
+## Backend
+
+- FastAPI
+- Flask
+- Django
+- REST APIs
+- WebSockets
+- Pydantic
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+- Firebase
+- Supabase
+
+## DevOps & Tools
+
+- Docker
+- GitHub
+- Linux
+- CI/CD
+
+## Analytics
+
+- Power BI
+- Power Query
+- DAX
+- Excel
 
 ---
 
 ## Projects Showcase
 
-- 📘 **[YOLOv8 Guide](https://www.linkedin.com/posts/colab-nu_yolo-v8-object-detection-model-guide-ugcPost-7159627665006592000-OXx3/)** – A detailed guide for beginners on real-time object detection
-- 📅 **[AI Timetable Scheduler](https://github.com/AlishbaTariq-atk/-AI-Academic-Timetable-Scheduler)** – Generates conflict-free schedules using Genetic Algorithms & CSP
-- 📝 **[OMR + MCQ System](https://github.com/AlishbaTariq-atk/OMR-and-MCQ-Generation-System)** – Dual system for automated MCQ generation and OMR evaluation
-- 📊 **[Tourism Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMjU5NTI4OTEtMjM2NC00NjQ2LTg0ZjUtNGJiODI2NmU2ZDkxIiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9)** – KP license grant and tourism analysis dashboard
-- 🛒 **[Point of Sale App](https://github.com/AlishbaTariq-atk/POINT-OF-SALE)** – Java-based inventory and billing system
-- 🌐 **[EduTech Platform](https://github.com/AlishbaTariq-atk/Edutech_SAAS_Based_Website)** – AI-powered SaaS for smart education and virtual classrooms
+- **[AutoReturn – Agentic AI Unified Inbox Automation System](https://github.com/AlishbaTariq-atk/AutoReturn_FYP)** – AI-powered inbox automation platform featuring AI agents, FastAPI backend, asynchronous processing, Supabase authentication, Linux desktop application, CI/CD, and intelligent email workflow automation.
+
+- **[Dual Brain Psychotherapy_Bot](https://github.com/AlishbaTariq-atk/Dual_Brain_Psychotherapy_Bot)** – Retrieval-Augmented Generation (RAG) based therapeutic assistant built with LangChain, FAISS, embedding models, LLMs, and FastAPI for context-aware AI conversations.
+
+- **[AI MCQ Generation & OMR Evaluation System](https://github.com/AlishbaTariq-atk/OMR-and-MCQ-Generation-System)** – Intelligent examination system that automatically generates MCQs using LLMs and evaluates answer sheets using OpenCV-based OMR detection.
+
+- **[YOLOv8 Guide](https://www.linkedin.com/posts/colab-nu_yolo-v8-object-detection-model-guide-ugcPost-7159627665006592000-OXx3/)** – A beginner-friendly guide explaining real-time object detection using YOLOv8, covering concepts, implementation, and practical examples.
+
+- **[AI Academic Timetable Scheduler](https://github.com/AlishbaTariq-atk/-AI-Academic-Timetable-Scheduler)** – Intelligent timetable generation system using Genetic Algorithms and Constraint Satisfaction to produce conflict-free academic schedules.
+
+- **[Tourism Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMjU5NTI4OTEtMjM2NC00NjQ2LTg0ZjUtNGJiODI2NmU2ZDkxIiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9)** – Interactive Power BI dashboard for KP Culture & Tourism Authority providing tourism insights, licensing statistics, KPIs, and business intelligence visualizations.
+
+- **[Point of Sale System](https://github.com/AlishbaTariq-atk/POINT-OF-SALE)** – Java-based inventory management and billing application with sales tracking, product management, and reporting features.
+
+- **[EduTech Platform](https://github.com/AlishbaTariq-atk/Edutech_SAAS_Based_Website)** – AI-powered SaaS learning platform supporting virtual classrooms, smart education management, and collaborative learning experiences.
+---
+
+# Achievements
+
+🥇 Gold Medalist — FAST-NUCES
+   Batch Topper (CGPA 3.82/4.0) 
+   4× Rector's List
+   ICPC Asia Regional Programming Contest — Top 60
 
 ---
 
-## Achievements
+# 📈 GitHub Stats
 
-- 🥇 Gold & Silver Medalist – FAST-NUCES  
-- 🥈 ICPC Asia Regional Finalist – Top 60  
-- 🧪 Research Contributor – CoLab Lab (Computer Vision)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlishbaTariq-atk&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaTariq-atk&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaTariq-atk&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+alishbat2012@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/alishba-tariq-
+
+💻 **GitHub**
+
+https://github.com/AlishbaTariq-atk
+
+---
+
+> *"Building AI systems that solve real-world problems through intelligent automation."*
 
 ## Let’s Connect!
 
